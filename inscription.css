@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.retou{
+    text-decoration: none;
+    margin-right: 250px;
+    color: white;
+}
+.retou:hover{
+    color:green;
+}
+form{
+    width: 300px;
+    height: 600px;
+   background-color: black; 
+    margin-left: 200px;
+    margin-top: 100px;
+     text-align: center; 
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+.form_hearding{
+    padding-bottom: 30px;
+    font-size: 2rem;
+    color: white;
+    padding-top: 5px;
+}
+.bonjour{
+    color: white;
+    padding-bottom: 25px;
+    font-size: 1.1rem;
+}
+.maman{
+   
+    width: 200px; 
+    height: 45px;
+   margin-top: -15px;
+   border-radius: 10px;
+   background-color: white;
+   font-size: 1.2rem;
+} 
+.nour{
+    font-size: 1.1rem;
+    color: white;
+    margin-bottom: 20px;
+}
+
+
+.nathan{
+    width: 200px; 
+    height: 45px;
+   background-color: white;
+   border-radius: 10px;
+   padding-top: 15px;
+   margin-bottom: 15px;
+  margin: 0 auto;
+   font-size: 1.2rem;
+   
+}
+.mimi{
+    font-size: 1.1rem;
+    color: white;
+    margin-bottom: 20px; 
+    
+}
+.nono .main_input{
+    width: 200px; 
+    height: 45px;
+    background-color:white;
+    border-radius: 10px;
+    text-align: center; 
+    margin-left: -30px;
+    margin: 0 auto;
+    font-size: 1.2rem;
+}
+.oui{
+    
+    color: white;
+    padding-bottom: 15px;
+    font-size: 1.1rem;
+}
+.lou .main_text_input{
+    width: 200px; 
+    height: 45px;
+    margin: 0 auto;
+    background-color: white;
+   padding-top: 15px;
+   border-radius: 10px;
+   text-align: center;
+   font-size: 1.2rem;
+}
+.bouton {
+    width: 200px; 
+    height: 45px;
+    margin: 0 auto;
+    border:white ; 
+    padding-top: 20px;
+    padding-left: 25px}
+
+    .main_submit_button{
+        font-size: 1.2rem;
+        width: 200px; 
+        height: 45px;
+        margin: 1px auto;
+        background-color:white ;
+        border-radius: 12px;
+        margin-left: -30px;
+    }
+    .main_submit_button .connect{
+        text-decoration: none;
+    }
+    .connect:hover{
+        color: red;
+    }
+    .paragraphe{
+        color: white;
+        margin-top: 50px;
+    }
+    .connexion{
+        text-decoration: none;
+    }
+    .connexion:hover{
+        color: red;
+    }
+    
