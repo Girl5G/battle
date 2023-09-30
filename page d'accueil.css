@@ -107,14 +107,15 @@ body{
   margin-left: 20px;
   margin-top: 50px;
 }
+.paragraphe{
+    text-align: center;
+    margin-top: 90px;
+    font-size: 4rem;
+    color: #60ABFB;
+}
 p{
-    text-align: center;
-    margin-top: 20px;
-    font-size: 2rem;
-    margin-left: 10px;
+    margin-top: 100px;
+    margin-left: -110px;
+    font-size: 1.8rem;
 }
-h1{
-    text-align: center;
-   margin-top: -200px;
-   
-}
+
